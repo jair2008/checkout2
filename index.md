@@ -1,4 +1,6 @@
-# checkout2
+<td>18 Oct 2018</td>
+<td>01 Nov 2018</td>
+</tr># checkout2
 <h1><div>RAMANATHAN, JAI [29007016058908],The following items are checked out:(<a href="https://drive.google.com/file/d/1NLZpCz1h8ohBXQc-ZUNiUXhxWhVwXA47/view?usp=sharing">pdf</a>)(<a href="https://drive.google.com/file/d/1Nxhugb8jkx6HamoUajMpcb5AD4fBQi-I/view?usp=sharing">pdf</a>)</div>
 <div>
 <div>
@@ -33,9 +35,6 @@
 <td>Hillen, Thomas, 1966-</td>
 <td>QA 377 H55 2012</td>
 <td>39007052422094</td>
-<td>18 Oct 2018</td>
-<td>01 Nov 2018</td>
-</tr>
 </tbody>
 </table>
 Please note that the list above may only include today’s charges and not previously charged items. If you have any questions, please contact your library.
