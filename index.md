@@ -1,5 +1,4 @@
 <h1>Checkout 2<h1>
-</tr># checkout2
 <h2><div>RAMANATHAN, JAI [29007016058908],The following items are checked out:(<a href="https://drive.google.com/file/d/1NLZpCz1h8ohBXQc-ZUNiUXhxWhVwXA47/view?usp=sharing">pdf</a>)(<a href="https://drive.google.com/file/d/1Nxhugb8jkx6HamoUajMpcb5AD4fBQi-I/view?usp=sharing">pdf</a>)</div>
 <div>
 <div>
@@ -37,6 +36,5 @@
 </tbody>
 </table>
 Please note that the list above may only include today’s charges and not previously charged items. If you have any questions, please contact your library.
-
 </div>
 </div><h2>
